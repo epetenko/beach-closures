@@ -1,749 +1,252 @@
-CLOSURE,CONTAM_ADV,Station_Name,Latitude_DD,Longitude_DD,Beach_Name,Municipality,County_Name
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic
-1.0,,AC0080,39.3074824372,-74.59916345,Rt 52,Somers Point City,Atlantic
-,1.0,AC1012,39.3635246753,-74.4092460815,New Hampshire,Atlantic City,Atlantic
-,2.0,AC1013,39.361895,-74.411635,Rhode Island Ave,Atlantic City,Atlantic
-,2.0,AC1013,39.361895,-74.411635,Rhode Island Ave,Atlantic City,Atlantic
-2.0,3.0,AC1015,39.3574183097,-74.4201620126,Pennsylvania,Atlantic City,Atlantic
-2.0,3.0,AC1015,39.3574183097,-74.4201620126,Pennsylvania,Atlantic City,Atlantic
-2.0,3.0,AC1015,39.3574183097,-74.4201620126,Pennsylvania,Atlantic City,Atlantic
-2.0,3.0,AC1015,39.3574183097,-74.4201620126,Pennsylvania,Atlantic City,Atlantic
-2.0,3.0,AC1015,39.3574183097,-74.4201620126,Pennsylvania,Atlantic City,Atlantic
-,1.0,AC1016,39.3534885419,-74.4331704463,Arkansas,Atlantic City,Atlantic
-,1.0,AC1017,39.3494279875,-74.4463456199,Chelsea,Atlantic City,Atlantic
-1.0,2.0,AC1018,39.352470593,-74.4377601325,Georgia,Atlantic City,Atlantic
-1.0,2.0,AC1018,39.352470593,-74.4377601325,Georgia,Atlantic City,Atlantic
-1.0,2.0,AC1018,39.352470593,-74.4377601325,Georgia,Atlantic City,Atlantic
-1.0,1.0,AC1046S,39.341225518,-74.4656917746,Austin Ave,Ventnor City,Atlantic
-1.0,1.0,AC1046S,39.341225518,-74.4656917746,Austin Ave,Ventnor City,Atlantic
-1.0,2.0,AC1070,39.3554745965,-74.4269233806,Kentucky,Atlantic City,Atlantic
-1.0,2.0,AC1070,39.3554745965,-74.4269233806,Kentucky,Atlantic City,Atlantic
-1.0,2.0,AC1070,39.3554745965,-74.4269233806,Kentucky,Atlantic City,Atlantic
-,1.0,AC1071,39.360504,-74.414089,Connecticut Ave,Atlantic City,Atlantic
-,1.0,AC1072,39.3591404117,-74.4172512894,States,Atlantic City,Atlantic
-1.0,2.0,AC1073,39.3565063266,-74.4227435068,South Carolina,Atlantic City,Atlantic
-1.0,2.0,AC1073,39.3565063266,-74.4227435068,South Carolina,Atlantic City,Atlantic
-1.0,2.0,AC1073,39.3565063266,-74.4227435068,South Carolina,Atlantic City,Atlantic
-,1.0,AC1074,39.3549078007,-74.4282571135,Illinois,Atlantic City,Atlantic
-1.0,2.0,AC1075,39.3530789645,-74.4349704407,Missouri,Atlantic City,Atlantic
-1.0,2.0,AC1075,39.3530789645,-74.4349704407,Missouri,Atlantic City,Atlantic
-1.0,2.0,AC1075,39.3530789645,-74.4349704407,Missouri,Atlantic City,Atlantic
-,2.0,AC1081,39.3515154234,-74.4403548234,Texas,Atlantic City,Atlantic
-,2.0,AC1081,39.3515154234,-74.4403548234,Texas,Atlantic City,Atlantic
-,1.0,AC1082,39.3539200931,-74.432107477,Michigan,Atlantic City,Atlantic
-,2.0,AC1083,39.3560087608,-74.4249815949,St. James,Atlantic City,Atlantic
-,2.0,AC1083,39.3560087608,-74.4249815949,St. James,Atlantic City,Atlantic
-2.0,3.0,AC1084,39.3568375192,-74.4214182749,North Carolina,Atlantic City,Atlantic
-2.0,3.0,AC1084,39.3568375192,-74.4214182749,North Carolina,Atlantic City,Atlantic
-2.0,3.0,AC1084,39.3568375192,-74.4214182749,North Carolina,Atlantic City,Atlantic
-2.0,3.0,AC1084,39.3568375192,-74.4214182749,North Carolina,Atlantic City,Atlantic
-2.0,3.0,AC1084,39.3568375192,-74.4214182749,North Carolina,Atlantic City,Atlantic
-1.0,1.0,AC1085,39.3438697006,-74.4596240949,Bartram,Atlantic City,Atlantic
-1.0,1.0,AC1085,39.3438697006,-74.4596240949,Bartram,Atlantic City,Atlantic
-,1.0,AC1088,39.3188818656,-74.5106337383,Washington,Margate City,Atlantic
-1.0,1.0,AC1089,39.3340560031,-74.4817860225,New Haven,Ventnor City,Atlantic
-1.0,1.0,AC1089,39.3340560031,-74.4817860225,New Haven,Ventnor City,Atlantic
-,1.0,AC1091,39.3926400227,-74.3768924505,26th St South,Brigantine City,Atlantic
-1.0,1.0,AC1096,39.330579934,-74.4891788525,Washington,Ventnor City,Atlantic
-1.0,1.0,AC1096,39.330579934,-74.4891788525,Washington,Ventnor City,Atlantic
-1.0,1.0,AC1097,39.3371354465,-74.474619754,Dorset,Ventnor City,Atlantic
-1.0,1.0,AC1097,39.3371354465,-74.474619754,Dorset,Ventnor City,Atlantic
-,2.0,AC1195,39.3506881638,-74.4429461658,Iowa Ave,Atlantic City,Atlantic
-,2.0,AC1195,39.3506881638,-74.4429461658,Iowa Ave,Atlantic City,Atlantic
-1.0,1.0,AC1206S,39.342546,-74.462406,Montgomery Ave,Atlantic City,Atlantic
-1.0,1.0,AC1206S,39.342546,-74.462406,Montgomery Ave,Atlantic City,Atlantic
-1.0,1.0,AC1229,39.3454232676,-74.4561135285,Annapolis Ave,Atlantic City,Atlantic
-1.0,1.0,AC1229,39.3454232676,-74.4561135285,Annapolis Ave,Atlantic City,Atlantic
-1.0,,CC0099,38.9466108025,-74.8948600678,Corinthian YC,Cape May City,Cape May
-1.0,,CC1004S,39.2805313301,-74.5581117938,St. Charles,Ocean City,Cape May
-1.0,,CC1007S,39.2754496772,-74.5659506458,7th St,Ocean City,Cape May
-1.0,,CC1010S,39.2732965053,-74.5721734371,10th St,Ocean City,Cape May
-1.0,,CC1094S,38.990721,-74.798141,21st Ave,North Wildwood City,Cape May
-,1.0,CC1101,39.2890008504,-74.5514799136,Surf,Ocean City,Cape May
-4.0,1.0,CC1103,39.2742697113,-74.5691610101,9th St,Ocean City,Cape May
-4.0,1.0,CC1103,39.2742697113,-74.5691610101,9th St,Ocean City,Cape May
-4.0,1.0,CC1103,39.2742697113,-74.5691610101,9th St,Ocean City,Cape May
-4.0,1.0,CC1103,39.2742697113,-74.5691610101,9th St,Ocean City,Cape May
-4.0,1.0,CC1103,39.2742697113,-74.5691610101,9th St,Ocean City,Cape May
-,2.0,CC1111,39.0980749465,-74.711237004,21st St,Avalon Borough,Cape May
-,2.0,CC1111,39.0980749465,-74.711237004,21st St,Avalon Borough,Cape May
-,2.0,CC1116,39.00266395,-74.78679346,2nd & JFK,North Wildwood City,Cape May
-,2.0,CC1116,39.00266395,-74.78679346,2nd & JFK,North Wildwood City,Cape May
-,2.0,CC1119,38.9857311185,-74.8034863297,Maple Ave,Wildwood City,Cape May
-,2.0,CC1119,38.9857311185,-74.8034863297,Maple Ave,Wildwood City,Cape May
-,1.0,CC1121,38.9791918712,-74.8126897203,Montgomery,Wildwood City,Cape May
-,4.0,CC1122,38.9756457284,-74.8185316746,Bennett,Wildwood City,Cape May
-,4.0,CC1122,38.9756457284,-74.8185316746,Bennett,Wildwood City,Cape May
-,4.0,CC1122,38.9756457284,-74.8185316746,Bennett,Wildwood City,Cape May
-,4.0,CC1122,38.9756457284,-74.8185316746,Bennett,Wildwood City,Cape May
-,1.0,CC1123,38.9694971036,-74.828388383,Forgetmenot,Wildwood Crest Borough,Cape May
-,1.0,CC1134,38.9286800659,-74.926717161,Grant,Cape May City,Cape May
-1.0,,CC1135,38.928728515,-74.931215574,Broadway,Cape May City,Cape May
-1.0,,CC1136,38.9283628352,-74.933196439,2nd,Cape May City,Cape May
-,1.0,CC1156,39.0918139944,-74.7161837949,30th St,Avalon Borough,Cape May
-,1.0,CC1160,39.2778464647,-74.5613139209,Park,Ocean City,Cape May
-,1.0,CC1166,39.1420697583,-74.6976336306,59th St,Sea Isle City,Cape May
-,1.0,CC1170,39.0438538484,-74.7609814384,108th St,Stone Harbor Borough,Cape May
-,1.0,CC1171,39.0364842423,-74.7671852671,119th St,Stone Harbor Borough,Cape May
-,1.0,CC1175,38.9736316468,-74.8219140659,Lavendar,Wildwood Crest Borough,Cape May
-,1.0,CC1176,38.9315318813,-74.9064319455,Philadelphia,Cape May City,Cape May
-,1.0,CC1177,39.1250098417,-74.7069836129,85th St,Sea Isle City,Cape May
-,1.0,CC1179,39.0469857809,-74.7585603641,103rd St,Stone Harbor Borough,Cape May
-,1.0,CC1180,38.9886811866,-74.8000556422,24th St,North Wildwood City,Cape May
-,1.0,CC1181,39.2831767192,-74.5554126119,North,Ocean City,Cape May
-,1.0,CC1189,39.1017422893,-74.708061848,15th St,Avalon Borough,Cape May
-,2.0,CC1190,39.0805716579,-74.7289039836,50th St,Avalon Borough,Cape May
-,2.0,CC1190,39.0805716579,-74.7289039836,50th St,Avalon Borough,Cape May
-,1.0,CC1192,39.0642112519,-74.7443818139,76th St,Avalon Borough,Cape May
-,1.0,CC1193,39.0514077929,-74.7545716237,96th St,Stone Harbor Borough,Cape May
-,1.0,CC1211,38.9923107998,-74.7964688356,18th Ave,North Wildwood City,Cape May
-4.0,,CC1215S,38.933493,-74.900364,Pittsburg Ave,Cape May City,Cape May
-4.0,,CC1215S,38.933493,-74.900364,Pittsburg Ave,Cape May City,Cape May
-4.0,,CC1215S,38.933493,-74.900364,Pittsburg Ave,Cape May City,Cape May
-4.0,,CC1215S,38.933493,-74.900364,Pittsburg Ave,Cape May City,Cape May
-1.0,,CC1362S,38.9918353749,-74.7970853294,19th Ave,North Wildwood City,Cape May
-1.0,,CC1363S,38.99125,-74.79729,20th Ave,North Wildwood City,Cape May
-4.0,,CC1369S,39.2746286574,-74.5677329717,8th St,Ocean City,Cape May
-4.0,,CC1369S,39.2746286574,-74.5677329717,8th St,Ocean City,Cape May
-4.0,,CC1369S,39.2746286574,-74.5677329717,8th St,Ocean City,Cape May
-4.0,,CC1369S,39.2746286574,-74.5677329717,8th St,Ocean City,Cape May
-1.0,,CC1374S,39.28233164,-74.5562678554,Stenton Pl,Ocean City,Cape May
-2.0,,CC1375S,39.2814473815,-74.5568608894,1st Street,Ocean City,Cape May
-2.0,,CC1375S,39.2814473815,-74.5568608894,1st Street,Ocean City,Cape May
-1.0,,CC1376S,39.2794895608,-74.5590166741,Delancey,Ocean City,Cape May
-1.0,,CC1749,39.276676,-74.563222,5th St,Ocean City,Cape May
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth
-1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth
-1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth
-1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth
-1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth
-1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth
-1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth
-1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth
-3.0,2.0,MC0045,40.4234322465,-74.059592391,Thompson,Middletown Township,Monmouth
-3.0,2.0,MC0045,40.4234322465,-74.059592391,Thompson,Middletown Township,Monmouth
-3.0,2.0,MC0045,40.4234322465,-74.059592391,Thompson,Middletown Township,Monmouth
-3.0,2.0,MC0045,40.4234322465,-74.059592391,Thompson,Middletown Township,Monmouth
-3.0,2.0,MC0045,40.4234322465,-74.059592391,Thompson,Middletown Township,Monmouth
-1.0,1.0,MC0049,40.4079505439,-73.9932702655,Highlands Rec Center,Highlands Borough,Monmouth
-1.0,1.0,MC0049,40.4079505439,-73.9932702655,Highlands Rec Center,Highlands Borough,Monmouth
-,4.0,MC0050,40.4036136783,-73.9847513365,Miller Beach,Highlands Borough,Monmouth
-,4.0,MC0050,40.4036136783,-73.9847513365,Miller Beach,Highlands Borough,Monmouth
-,4.0,MC0050,40.4036136783,-73.9847513365,Miller Beach,Highlands Borough,Monmouth
-,4.0,MC0050,40.4036136783,-73.9847513365,Miller Beach,Highlands Borough,Monmouth
-,2.0,MC1013,40.3622814044,-73.9714540943,Public Beach,Sea Bright Borough,Monmouth
-,2.0,MC1013,40.3622814044,-73.9714540943,Public Beach,Sea Bright Borough,Monmouth
-1.0,2.0,MC1018,40.3200680936,-73.9750786409,Atlantic Ave,Long Branch City,Monmouth
-1.0,2.0,MC1018,40.3200680936,-73.9750786409,Atlantic Ave,Long Branch City,Monmouth
-1.0,2.0,MC1018,40.3200680936,-73.9750786409,Atlantic Ave,Long Branch City,Monmouth
-1.0,1.0,MC1019,40.3143364604,-73.9761722615,Joline,Long Branch City,Monmouth
-1.0,1.0,MC1019,40.3143364604,-73.9761722615,Joline,Long Branch City,Monmouth
-1.0,5.0,MC1020,40.2913981527,-73.9796819117,South Bath,Long Branch City,Monmouth
-1.0,5.0,MC1020,40.2913981527,-73.9796819117,South Bath,Long Branch City,Monmouth
-1.0,5.0,MC1020,40.2913981527,-73.9796819117,South Bath,Long Branch City,Monmouth
-1.0,5.0,MC1020,40.2913981527,-73.9796819117,South Bath,Long Branch City,Monmouth
-1.0,5.0,MC1020,40.2913981527,-73.9796819117,South Bath,Long Branch City,Monmouth
-1.0,5.0,MC1020,40.2913981527,-73.9796819117,South Bath,Long Branch City,Monmouth
-,3.0,MC1021,40.2609915318,-73.9879961017,Elberon Bch Clb,Long Branch City,Monmouth
-,3.0,MC1021,40.2609915318,-73.9879961017,Elberon Bch Clb,Long Branch City,Monmouth
-,3.0,MC1021,40.2609915318,-73.9879961017,Elberon Bch Clb,Long Branch City,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth
-1.0,1.0,MC1024,40.2209176425,-73.9984369303,3rd,Asbury Park City,Monmouth
-1.0,1.0,MC1024,40.2209176425,-73.9984369303,3rd,Asbury Park City,Monmouth
-,4.0,MC1027,40.1917268859,-74.0081774117,Sylvania,Avon-by-the-sea Borough,Monmouth
-,4.0,MC1027,40.1917268859,-74.0081774117,Sylvania,Avon-by-the-sea Borough,Monmouth
-,4.0,MC1027,40.1917268859,-74.0081774117,Sylvania,Avon-by-the-sea Borough,Monmouth
-,4.0,MC1027,40.1917268859,-74.0081774117,Sylvania,Avon-by-the-sea Borough,Monmouth
-,1.0,MC1031,40.1888335237,-74.0088216656,L Jetty Washington Ave,Avon-by-the-sea Borough,Monmouth
-1.0,3.0,MC1036,40.111342027,-74.0323773678,East Main,Manasquan Borough,Monmouth
-1.0,3.0,MC1036,40.111342027,-74.0323773678,East Main,Manasquan Borough,Monmouth
-1.0,3.0,MC1036,40.111342027,-74.0323773678,East Main,Manasquan Borough,Monmouth
-1.0,3.0,MC1036,40.111342027,-74.0323773678,East Main,Manasquan Borough,Monmouth
-2.0,4.0,MC1039,40.3040574457,-73.9769902841,Laird,Long Branch City,Monmouth
-2.0,4.0,MC1039,40.3040574457,-73.9769902841,Laird,Long Branch City,Monmouth
-2.0,4.0,MC1039,40.3040574457,-73.9769902841,Laird,Long Branch City,Monmouth
-2.0,4.0,MC1039,40.3040574457,-73.9769902841,Laird,Long Branch City,Monmouth
-2.0,4.0,MC1039,40.3040574457,-73.9769902841,Laird,Long Branch City,Monmouth
-2.0,4.0,MC1039,40.3040574457,-73.9769902841,Laird,Long Branch City,Monmouth
-1.0,2.0,MC1041,40.2367133247,-73.9939071598,Cedar,Allenhurst Borough,Monmouth
-1.0,2.0,MC1041,40.2367133247,-73.9939071598,Cedar,Allenhurst Borough,Monmouth
-1.0,2.0,MC1041,40.2367133247,-73.9939071598,Cedar,Allenhurst Borough,Monmouth
-,2.0,MC1043,40.2322903369,-73.9960221817,Village Beach Club,Loch Arbour Village,Monmouth
-,2.0,MC1043,40.2322903369,-73.9960221817,Village Beach Club,Loch Arbour Village,Monmouth
-,1.0,MC1046S,40.32458439,-73.97435574,Pavilion Beach,Monmouth Beach Borough,Monmouth
-1.0,2.0,MC1047,40.2692712907,-73.9848903782,Ocean Beach Club,Long Branch City,Monmouth
-1.0,2.0,MC1047,40.2692712907,-73.9848903782,Ocean Beach Club,Long Branch City,Monmouth
-1.0,2.0,MC1047,40.2692712907,-73.9848903782,Ocean Beach Club,Long Branch City,Monmouth
-1.0,,MC1049S,40.317904,-73.97544,Avenel,Long Branch City,Monmouth
-1.0,3.0,MC1050,40.2179562572,-73.9994817762,1st Ave,Asbury Park City,Monmouth
-1.0,3.0,MC1050,40.2179562572,-73.9994817762,1st Ave,Asbury Park City,Monmouth
-1.0,3.0,MC1050,40.2179562572,-73.9994817762,1st Ave,Asbury Park City,Monmouth
-1.0,3.0,MC1050,40.2179562572,-73.9994817762,1st Ave,Asbury Park City,Monmouth
-,2.0,MC1051,40.2114438126,-74.0018846213,Main,Neptune Township,Monmouth
-,2.0,MC1051,40.2114438126,-74.0018846213,Main,Neptune Township,Monmouth
-1.0,2.0,MC1052,40.2089715639,-74.0029218061,Broadway,Neptune Township,Monmouth
-1.0,2.0,MC1052,40.2089715639,-74.0029218061,Broadway,Neptune Township,Monmouth
-1.0,2.0,MC1052,40.2089715639,-74.0029218061,Broadway,Neptune Township,Monmouth
-1.0,4.0,MC1053,40.2039657903,-74.0045925064,Ocean Park,Bradley Beach Borough,Monmouth
-1.0,4.0,MC1053,40.2039657903,-74.0045925064,Ocean Park,Bradley Beach Borough,Monmouth
-1.0,4.0,MC1053,40.2039657903,-74.0045925064,Ocean Park,Bradley Beach Borough,Monmouth
-1.0,4.0,MC1053,40.2039657903,-74.0045925064,Ocean Park,Bradley Beach Borough,Monmouth
-1.0,4.0,MC1053,40.2039657903,-74.0045925064,Ocean Park,Bradley Beach Borough,Monmouth
-1.0,,MC1054,40.1960369121,-74.007095572,Evergreen,Bradley Beach Borough,Monmouth
-1.0,1.0,MC1056,40.1746929138,-74.0133067766,12th Ave,Belmar Borough,Monmouth
-1.0,1.0,MC1056,40.1746929138,-74.0133067766,12th Ave,Belmar Borough,Monmouth
-,5.0,MC1057,40.160665914,-74.0181320765,Worthington,Spring Lake Borough,Monmouth
-,5.0,MC1057,40.160665914,-74.0181320765,Worthington,Spring Lake Borough,Monmouth
-,5.0,MC1057,40.160665914,-74.0181320765,Worthington,Spring Lake Borough,Monmouth
-,5.0,MC1057,40.160665914,-74.0181320765,Worthington,Spring Lake Borough,Monmouth
-,5.0,MC1057,40.160665914,-74.0181320765,Worthington,Spring Lake Borough,Monmouth
-,2.0,MC1058,40.1531230763,-74.0207405113,Washington,Spring Lake Borough,Monmouth
-,2.0,MC1058,40.1531230763,-74.0207405113,Washington,Spring Lake Borough,Monmouth
-,2.0,MC1059,40.1458715494,-74.0229989892,Essex Ave,Spring Lake Borough,Monmouth
-,2.0,MC1059,40.1458715494,-74.0229989892,Essex Ave,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth
-2.0,1.0,MC1065,40.2266481207,-73.9966637716,7th Ave,Asbury Park City,Monmouth
-2.0,1.0,MC1065,40.2266481207,-73.9966637716,7th Ave,Asbury Park City,Monmouth
-2.0,1.0,MC1065,40.2266481207,-73.9966637716,7th Ave,Asbury Park City,Monmouth
-3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth
-3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth
-3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth
-3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth
-3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth
-3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth
-3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth
-,2.0,MC1071,40.1409751444,-74.0245880201,Union Ave,Spring Lake Borough,Monmouth
-,2.0,MC1071,40.1409751444,-74.0245880201,Union Ave,Spring Lake Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth
-,1.0,MC1074,40.1796178786,-74.0114136737,7th Ave,Belmar Borough,Monmouth
-,1.0,MC1075,40.1683779799,-74.0156648801,20th,Belmar Borough,Monmouth
-,3.0,MC1081,40.1319978699,-74.0272616136,Baltimore,Sea Girt Borough,Monmouth
-,3.0,MC1081,40.1319978699,-74.0272616136,Baltimore,Sea Girt Borough,Monmouth
-,3.0,MC1081,40.1319978699,-74.0272616136,Baltimore,Sea Girt Borough,Monmouth
-,5.0,MC1082,40.1330808595,-74.0268899586,New York Blvd,Sea Girt Borough,Monmouth
-,5.0,MC1082,40.1330808595,-74.0268899586,New York Blvd,Sea Girt Borough,Monmouth
-,5.0,MC1082,40.1330808595,-74.0268899586,New York Blvd,Sea Girt Borough,Monmouth
-,5.0,MC1082,40.1330808595,-74.0268899586,New York Blvd,Sea Girt Borough,Monmouth
-,5.0,MC1082,40.1330808595,-74.0268899586,New York Blvd,Sea Girt Borough,Monmouth
-,3.0,MC1083,40.2154108696,-74.0003227451,Spray Ave.,Neptune Township,Monmouth
-,3.0,MC1083,40.2154108696,-74.0003227451,Spray Ave.,Neptune Township,Monmouth
-,3.0,MC1083,40.2154108696,-74.0003227451,Spray Ave.,Neptune Township,Monmouth
-,3.0,MC1084,40.277480873,-73.9829927536,Imperial House,Long Branch City,Monmouth
-,3.0,MC1084,40.277480873,-73.9829927536,Imperial House,Long Branch City,Monmouth
-,3.0,MC1084,40.277480873,-73.9829927536,Imperial House,Long Branch City,Monmouth
-,1.0,MC1096,40.1036598447,-74.0338439653,Inlet Surfing Beach Riverside Dr.,Manasquan Borough,Monmouth
-,1.0,MC1128S,40.240359,-73.993354,Hathaway Avenue Beach,Deal Borough,Monmouth
-,3.0,MC1180S,40.2531891338,-73.9893334896,Philips Ave,Deal Borough,Monmouth
-,3.0,MC1180S,40.2531891338,-73.9893334896,Philips Ave,Deal Borough,Monmouth
-,3.0,MC1180S,40.2531891338,-73.9893334896,Philips Ave,Deal Borough,Monmouth
-,2.0,MC1187S,40.365104,-73.971624,Rumson Rd,Sea Bright Borough,Monmouth
-,2.0,MC1187S,40.365104,-73.971624,Rumson Rd,Sea Bright Borough,Monmouth
-,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean
-,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean
-,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean
-,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean
-,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean
-,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean
-,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean
-2.0,4.0,OC0069,39.6492312454,-74.1856893178,14th St Bay Front,Ship Bottom Borough,Ocean
-2.0,4.0,OC0069,39.6492312454,-74.1856893178,14th St Bay Front,Ship Bottom Borough,Ocean
-2.0,4.0,OC0069,39.6492312454,-74.1856893178,14th St Bay Front,Ship Bottom Borough,Ocean
-2.0,4.0,OC0069,39.6492312454,-74.1856893178,14th St Bay Front,Ship Bottom Borough,Ocean
-2.0,4.0,OC0069,39.6492312454,-74.1856893178,14th St Bay Front,Ship Bottom Borough,Ocean
-2.0,4.0,OC0069,39.6492312454,-74.1856893178,14th St Bay Front,Ship Bottom Borough,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean
-2.0,4.0,OC0077,39.5879811366,-74.2285836916,New Jersey,Long Beach Township,Ocean
-2.0,4.0,OC0077,39.5879811366,-74.2285836916,New Jersey,Long Beach Township,Ocean
-2.0,4.0,OC0077,39.5879811366,-74.2285836916,New Jersey,Long Beach Township,Ocean
-2.0,4.0,OC0077,39.5879811366,-74.2285836916,New Jersey,Long Beach Township,Ocean
-2.0,4.0,OC0077,39.5879811366,-74.2285836916,New Jersey,Long Beach Township,Ocean
-2.0,4.0,OC0077,39.5879811366,-74.2285836916,New Jersey,Long Beach Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean
-6.0,,OC0111,39.9478767919,-74.1631691814,Money Island,Toms River Township,Ocean
-6.0,,OC0111,39.9478767919,-74.1631691814,Money Island,Toms River Township,Ocean
-6.0,,OC0111,39.9478767919,-74.1631691814,Money Island,Toms River Township,Ocean
-6.0,,OC0111,39.9478767919,-74.1631691814,Money Island,Toms River Township,Ocean
-6.0,,OC0111,39.9478767919,-74.1631691814,Money Island,Toms River Township,Ocean
-6.0,,OC0111,39.9478767919,-74.1631691814,Money Island,Toms River Township,Ocean
-,3.0,OC0112,39.968929444,-74.1125971919,Shelter Cove,Toms River Township,Ocean
-,3.0,OC0112,39.968929444,-74.1125971919,Shelter Cove,Toms River Township,Ocean
-,3.0,OC0112,39.968929444,-74.1125971919,Shelter Cove,Toms River Township,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean
-,1.0,OC0122,39.8729088193,-74.1314700245,Berkeley Island,Berkeley Township,Ocean
-,4.0,OC0124,39.754235764,-74.1904650552,Bay Beach,Barnegat Township,Ocean
-,4.0,OC0124,39.754235764,-74.1904650552,Bay Beach,Barnegat Township,Ocean
-,4.0,OC0124,39.754235764,-74.1904650552,Bay Beach,Barnegat Township,Ocean
-,4.0,OC0124,39.754235764,-74.1904650552,Bay Beach,Barnegat Township,Ocean
-1.0,3.0,OC0125,39.6636551007,-74.2172728377,Jennifer,Stafford Township,Ocean
-1.0,3.0,OC0125,39.6636551007,-74.2172728377,Jennifer,Stafford Township,Ocean
-1.0,3.0,OC0125,39.6636551007,-74.2172728377,Jennifer,Stafford Township,Ocean
-1.0,3.0,OC0125,39.6636551007,-74.2172728377,Jennifer,Stafford Township,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean
-,3.0,OC0138,39.9694158228,-74.0746024225,Brooklyn,Lavallette Borough,Ocean
-,3.0,OC0138,39.9694158228,-74.0746024225,Brooklyn,Lavallette Borough,Ocean
-,3.0,OC0138,39.9694158228,-74.0746024225,Brooklyn,Lavallette Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean
-1.0,,OC1006S,39.6994085348,-74.1357710808,69th,Harvey Cedars Borough,Ocean
-1.0,,OC1010S,39.649290061,-74.1725222569,7th St,Ship Bottom Borough,Ocean
-1.0,1.0,OC1019,40.009329903,-74.0562663786,Brick Beach,Brick Township,Ocean
-1.0,1.0,OC1019,40.009329903,-74.0562663786,Brick Beach,Brick Township,Ocean
-,1.0,OC1033,39.9504898869,-74.0681223282,North Beach,Toms River Township,Ocean
-,2.0,OC1035,39.9440409513,-74.0687774563,Sheridan,Seaside Heights Borough,Ocean
-,2.0,OC1035,39.9440409513,-74.0687774563,Sheridan,Seaside Heights Borough,Ocean
-1.0,,OC1052,39.7198239187,-74.1255132318,Loveladies Ln,Long Beach Township,Ocean
-1.0,,OC1054,39.7034466073,-74.1335770736,75th Ocean Front,Harvey Cedars Borough,Ocean
-1.0,1.0,OC1058,39.6860536335,-74.144639795,Bergen,Harvey Cedars Borough,Ocean
-1.0,1.0,OC1058,39.6860536335,-74.144639795,Bergen,Harvey Cedars Borough,Ocean
-,1.0,OC1068,39.6448907967,-74.1762155318,14th St Ocean Front,Ship Bottom Borough,Ocean
-1.0,2.0,OC1072,39.6151911343,-74.1978774892,Stockton Ave,Long Beach Township,Ocean
-1.0,2.0,OC1072,39.6151911343,-74.1978774892,Stockton Ave,Long Beach Township,Ocean
-1.0,2.0,OC1072,39.6151911343,-74.1978774892,Stockton Ave,Long Beach Township,Ocean
-1.0,,OC1076,39.584542189,-74.2196010186,New Jersey Ave,Long Beach Township,Ocean
-1.0,1.0,OC1078,39.5668542824,-74.2312423563,Taylor Ocean Front,Beach Haven Borough,Ocean
-1.0,1.0,OC1078,39.5668542824,-74.2312423563,Taylor Ocean Front,Beach Haven Borough,Ocean
-,5.0,OC1080,39.5483920571,-74.2486485517,Leeward St,Beach Haven Borough,Ocean
-,5.0,OC1080,39.5483920571,-74.2486485517,Leeward St,Beach Haven Borough,Ocean
-,5.0,OC1080,39.5483920571,-74.2486485517,Leeward St,Beach Haven Borough,Ocean
-,5.0,OC1080,39.5483920571,-74.2486485517,Leeward St,Beach Haven Borough,Ocean
-,5.0,OC1080,39.5483920571,-74.2486485517,Leeward St,Beach Haven Borough,Ocean
-,1.0,OC1082,39.5353218423,-74.2587438882,Joan,Long Beach Township,Ocean
-1.0,,OC1084S,39.7480011095,-74.1052437531,17th St,Barnegat Light Borough,Ocean
-1.0,,OC1086S,39.7359132523,-74.1161433743,Dolphin,Long Beach Township,Ocean
-1.0,,OC1087S,39.7326536153,-74.118252544,Seaview,Long Beach Township,Ocean
-1.0,,OC1088S,39.7291160324,-74.1202763038,Coast Ave,Long Beach Township,Ocean
-1.0,,OC1089,39.9883894162,-74.0613185468,East Tuna Way,Toms River Township,Ocean
-1.0,,OC1092S,39.7066273691,-74.131750702,80th St,Harvey Cedars Borough,Ocean
-,2.0,OC1095,39.9382037599,-74.0704307967,Lincoln Ave,Seaside Heights Borough,Ocean
-,2.0,OC1095,39.9382037599,-74.0704307967,Lincoln Ave,Seaside Heights Borough,Ocean
-,1.0,OC1099,39.6600287994,-74.1635582068,North 10th St,Surf City Borough,Ocean
-1.0,1.0,OC1100,39.6515320211,-74.1706224745,South 3rd St,Ship Bottom Borough,Ocean
-1.0,1.0,OC1100,39.6515320211,-74.1706224745,South 3rd St,Ship Bottom Borough,Ocean
-1.0,,OC1102,39.5705123035,-74.2290593411,14th St. in Beach Haven,Long Beach Township,Ocean
-1.0,,OC1107S,39.6468758993,-74.1745912617,11th St,Ship Bottom Borough,Ocean
-1.0,,OC1112S,39.6184428345,-74.1955610966,Paulding,Long Beach Township,Ocean
-1.0,,OC1113S,39.6143522378,-74.1983233712,Dayton,Long Beach Township,Ocean
-1.0,,OC1114S,39.6100187176,-74.2011517501,Jeanette Ave,Long Beach Township,Ocean
-1.0,,OC1115S,39.6038369953,-74.2052129736,Oceanview Dr,Long Beach Township,Ocean
-1.0,,OC1118S,39.5864219309,-74.2184363596,Dune,Long Beach Township,Ocean
-1.0,,OC1119S,39.5820414397,-74.2213150133,33rd St,Long Beach Township,Ocean
-1.0,,OC1120S,39.57727331,-74.2244400574,25th St,Long Beach Township,Ocean
-1.0,,OC1122S,39.5643778229,-74.2330183231,5th St,Beach Haven Borough,Ocean
-1.0,,OC1125S,39.5508551484,-74.2453264768,Pelham,Beach Haven Borough,Ocean
-1.0,,OC1127S,39.5463525211,-74.2504431474,Osborn Ave,Long Beach Township,Ocean
-,1.0,OC1130,39.9562775543,-74.06745785,4th Ave,Toms River Township,Ocean
-1.0,,OC1131S,39.5370508703,-74.2579030546,Elizabeth Ct,Long Beach Township,Ocean
-1.0,,OC1132S,39.5330149004,-74.259610354,Harding Ave,Long Beach Township,Ocean
-,1.0,OC1135,40.0765925776,-74.0402649233,Maryland,Point Pleasant Beach Borough,Ocean
-1.0,,OC1137S,39.6974188635,-74.1370022281,Middlesex Ave,Harvey Cedars Borough,Ocean
-1.0,,OC1225S,39.7046473563,-74.1326078327,77th St,Harvey Cedars Borough,Ocean
-1.0,,OC1250S,39.644458588,-74.176441472,South 14th St III,Ship Bottom Borough,Ocean
-1.0,,OC1298S,39.7543088942,-74.0997598392,9th St,Barnegat Light Borough,Ocean
-1.0,,OC1306S,39.7448668191,-74.1094144172,22nd St,Barnegat Light Borough,Ocean
-1.0,,OC1307S,39.7455596113,-74.1087114188,21st St,Barnegat Light Borough,Ocean
-1.0,,OC1308S,39.7430794034,-74.1110122083,25th St Ocean Front,Barnegat Light Borough,Ocean
-1.0,,OC1310S,39.7416839268,-74.1122048809,27th St,Barnegat Light Borough,Ocean
-1.0,,OC1314S,39.5490812972,-74.2473315973,North Leeward St III,Beach Haven Borough,Ocean
-1.0,,OC1402S,39.5841016916,-74.2198252613,South New Jersey Ave II,Long Beach Township,Ocean
-1.0,,OC1447,39.7107682619,-74.1298565991,86th St,Harvey Cedars Borough,Ocean
-1.0,,OC1448,39.7086948364,-74.1307630967,83rd St,Harvey Cedars Borough,Ocean
-1.0,,OC1449,39.7019436829,-74.1341286569,73rd St,Harvey Cedars Borough,Ocean
-1.0,,OC1451,39.6922843829,-74.1404181224,Hudson Ave,Harvey Cedars Borough,Ocean
-1.0,,OC1452,39.6894844904,-74.1420442609,Cape May Ave,Harvey Cedars Borough,Ocean
-1.0,,OC1501,39.5907916581,-74.2152261728,Colorado,Long Beach Township,Ocean
-1.0,,OC1503,39.5448210957,-74.2519737989,Susan,Long Beach Township,Ocean
-1.0,,OC1504,39.5421160171,-74.2541420619,Rosemma,Long Beach Township,Ocean
-1.0,,OC1505,39.5388943218,-74.2565349694,Scott,Long Beach Township,Ocean
-1.0,,OC1506,39.5356717435,-74.258646492,Jacqueline,Long Beach Township,Ocean
-1.0,,OC1507,39.5322929088,-74.260169347,Washington,Long Beach Township,Ocean
-1.0,,OC1508,39.6523143592,-74.1698473028,S 2nd,Surf City Borough,Ocean
-1.0,,OC1509,39.6541046413,-74.1682880248,N 1st,Surf City Borough,Ocean
-1.0,,OC1510,39.6566291866,-74.1662337379,5th St,Surf City Borough,Ocean
-1.0,,OC1511,39.6591124811,-74.164228952,9th St,Surf City Borough,Ocean
-1.0,,OC1512,39.6616782771,-74.1622489165,13th St,Surf City Borough,Ocean
-1.0,,OC1513,39.6641038206,-74.160103878,17th St,Surf City Borough,Ocean
-1.0,,OC1514,39.6666613665,-74.1582310944,21st St,Surf City Borough,Ocean
-1.0,,OC1515,39.6686249017,-74.1571420749,24th St,Surf City Borough,Ocean
-2.0,,OC1516,39.6411442072,-74.1788782569,20th St,Ship Bottom Borough,Ocean
-2.0,,OC1516,39.6411442072,-74.1788782569,20th St,Ship Bottom Borough,Ocean
-1.0,,OC1517,39.6393656437,-74.1802242235,23rd St,Ship Bottom Borough,Ocean
-1.0,,OC1518,39.6373847082,-74.1818157433,26th St,Ship Bottom Borough,Ocean
-1.0,,OC1519,39.6353961629,-74.1832300886,30th St,Ship Bottom Borough,Ocean
-1.0,,OC1520,39.569252841,-74.2297184431,12th St,Beach Haven Borough,Ocean
-1.0,,OC1521,39.5623723931,-74.2345016422,2nd St,Beach Haven Borough,Ocean
-1.0,,OC1522,39.5608515811,-74.2355931927,Engleside,Beach Haven Borough,Ocean
-1.0,,OC1523,39.5588033908,-74.2372366509,Pearl,Beach Haven Borough,Ocean
-1.0,,OC1524,39.5558108252,-74.2397876904,Belvoir,Beach Haven Borough,Ocean
-1.0,,OC1525,39.5541305732,-74.2415537946,Essex,Beach Haven Borough,Ocean
-1.0,,OC1526,39.6115235069,-74.2002980639,Lavenia Ave,Long Beach Township,Ocean
-1.0,,OC1527,39.6080400242,-74.2026383604,Rhode Island Ave,Long Beach Township,Ocean
-1.0,,OC1528,39.6013426782,-74.2070061947,Herbert Ave,Long Beach Township,Ocean
-1.0,,OC1529,39.5993367098,-74.2085484177,California Ave,Long Beach Township,Ocean
-1.0,,OC1530,39.5972983871,-74.2101661342,Kansas Ave,Long Beach Township,Ocean
-1.0,,OC1531,39.5926717181,-74.2138653124,Tennessee Ave,Long Beach Township,Ocean
-1.0,,OC1532,39.6344574695,-74.1838591095,32nd St,Long Beach Township,Ocean
-1.0,,OC1533,39.6325301061,-74.1853724467,36th St,Long Beach Township,Ocean
-1.0,,OC1534,39.630645573,-74.1867858466,40th St,Long Beach Township,Ocean
-1.0,,OC1535,39.6287610399,-74.1882277999,44th St,Long Beach Township,Ocean
-1.0,,OC1536,39.6269478906,-74.1896983068,48th St,Long Beach Township,Ocean
-1.0,,OC1537,39.6249919737,-74.1912830279,52nd St,Long Beach Township,Ocean
-1.0,,OC1538,39.6234643597,-74.1923252318,55th St,Long Beach Township,Ocean
-1.0,,OC1539,39.6216654872,-74.1934959266,58th St,Long Beach Township,Ocean
-1.0,,OC1541,39.6192669905,-74.195180585,Sigsbee Ave,Long Beach Township,Ocean
-1.0,,OC1542,39.6155649958,-74.1975588048,68th St,Long Beach Township,Ocean
-1.0,,OC1543,39.5797340015,-74.2227973965,29th St,Long Beach Township,Ocean
-1.0,,OC1544,39.5746705085,-74.2260334635,21st St,Long Beach Township,Ocean
-1.0,,OC1545,39.5723100832,-74.2275753542,17th St,Long Beach Township,Ocean
-1.0,,OC1546,39.7491135981,-74.1037909264,15th St,Barnegat Light Borough,Ocean
-1.0,,OC1547,39.7470862973,-74.1068604311,19th St,Barnegat Light Borough,Ocean
-1.0,,OC1548,39.7391210303,-74.1140607126,30th St,Barnegat Light Borough,Ocean
-1.0,,OC1549,39.6694146932,-74.1568265209,1005 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1550,39.6720725138,-74.1551034423,1023 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1551,39.675444094,-74.1525804493,1049 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1552,39.6771784317,-74.1513046654,1065 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1553,39.6797542237,-74.1493043221,1087 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1554,39.6834376293,-74.146563183,1119 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1555,39.7249482722,-74.1226641084,85 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1556,39.7271113519,-74.1214935209,199 LB Blvd,Long Beach Township,Ocean
-1.0,,OC1557,39.6060748138,-74.2037617215,86th St,Long Beach Township,Ocean
-1.0,,OC1558,39.5884894829,-74.2168367076,Ramapo Ave,Long Beach Township,Ocean
-1.0,,OC1559,39.5616106539,-74.2351606995,Center St,Beach Haven Borough,Ocean
-1.0,,OC1560,39.5949111166,-74.2121306545,110th St,Long Beach Township,Ocean
+CLOSURE,CONTAM_ADV,Station_Name,Latitude_DD,Longitude_DD,Beach_Name,Municipality,County_Name,Tot_actions
+5.0,5.0,AC0050,39.3110752972,-74.5927423071,New Jersey Ave,Somers Point City,Atlantic,10.0
+1.0,,AC0080,39.3074824372,-74.59916345,Rt 52,Somers Point City,Atlantic,
+,1.0,AC1012,39.3635246753,-74.4092460815,New Hampshire,Atlantic City,Atlantic,
+,2.0,AC1013,39.361895,-74.411635,Rhode Island Ave,Atlantic City,Atlantic,
+2.0,3.0,AC1015,39.3574183097,-74.4201620126,Pennsylvania,Atlantic City,Atlantic,5.0
+,1.0,AC1016,39.3534885419,-74.4331704463,Arkansas,Atlantic City,Atlantic,
+,1.0,AC1017,39.3494279875,-74.4463456199,Chelsea,Atlantic City,Atlantic,
+1.0,2.0,AC1018,39.352470593,-74.4377601325,Georgia,Atlantic City,Atlantic,3.0
+1.0,1.0,AC1046S,39.341225518,-74.4656917746,Austin Ave,Ventnor City,Atlantic,2.0
+1.0,2.0,AC1070,39.3554745965,-74.4269233806,Kentucky,Atlantic City,Atlantic,3.0
+,1.0,AC1071,39.360504,-74.414089,Connecticut Ave,Atlantic City,Atlantic,
+,1.0,AC1072,39.3591404117,-74.4172512894,States,Atlantic City,Atlantic,
+1.0,2.0,AC1073,39.3565063266,-74.4227435068,South Carolina,Atlantic City,Atlantic,3.0
+,1.0,AC1074,39.3549078007,-74.4282571135,Illinois,Atlantic City,Atlantic,
+1.0,2.0,AC1075,39.3530789645,-74.4349704407,Missouri,Atlantic City,Atlantic,3.0
+,2.0,AC1081,39.3515154234,-74.4403548234,Texas,Atlantic City,Atlantic,
+,1.0,AC1082,39.3539200931,-74.432107477,Michigan,Atlantic City,Atlantic,
+,2.0,AC1083,39.3560087608,-74.4249815949,St. James,Atlantic City,Atlantic,
+2.0,3.0,AC1084,39.3568375192,-74.4214182749,North Carolina,Atlantic City,Atlantic,5.0
+1.0,1.0,AC1085,39.3438697006,-74.4596240949,Bartram,Atlantic City,Atlantic,2.0
+,1.0,AC1088,39.3188818656,-74.5106337383,Washington,Margate City,Atlantic,
+1.0,1.0,AC1089,39.3340560031,-74.4817860225,New Haven,Ventnor City,Atlantic,2.0
+,1.0,AC1091,39.3926400227,-74.3768924505,26th St South,Brigantine City,Atlantic,
+1.0,1.0,AC1096,39.330579934,-74.4891788525,Washington,Ventnor City,Atlantic,2.0
+1.0,1.0,AC1097,39.3371354465,-74.474619754,Dorset,Ventnor City,Atlantic,2.0
+,2.0,AC1195,39.3506881638,-74.4429461658,Iowa Ave,Atlantic City,Atlantic,
+1.0,1.0,AC1206S,39.342546,-74.462406,Montgomery Ave,Atlantic City,Atlantic,2.0
+1.0,1.0,AC1229,39.3454232676,-74.4561135285,Annapolis Ave,Atlantic City,Atlantic,2.0
+1.0,,CC0099,38.9466108025,-74.8948600678,Corinthian YC,Cape May City,Cape May,
+1.0,,CC1004S,39.2805313301,-74.5581117938,St. Charles,Ocean City,Cape May,
+1.0,,CC1007S,39.2754496772,-74.5659506458,7th St,Ocean City,Cape May,
+1.0,,CC1010S,39.2732965053,-74.5721734371,10th St,Ocean City,Cape May,
+1.0,,CC1094S,38.990721,-74.798141,21st Ave,North Wildwood City,Cape May,
+,1.0,CC1101,39.2890008504,-74.5514799136,Surf,Ocean City,Cape May,
+4.0,1.0,CC1103,39.2742697113,-74.5691610101,9th St,Ocean City,Cape May,5.0
+,2.0,CC1111,39.0980749465,-74.711237004,21st St,Avalon Borough,Cape May,
+,2.0,CC1116,39.00266395,-74.78679346,2nd & JFK,North Wildwood City,Cape May,
+,2.0,CC1119,38.9857311185,-74.8034863297,Maple Ave,Wildwood City,Cape May,
+,1.0,CC1121,38.9791918712,-74.8126897203,Montgomery,Wildwood City,Cape May,
+,4.0,CC1122,38.9756457284,-74.8185316746,Bennett,Wildwood City,Cape May,
+,1.0,CC1123,38.9694971036,-74.828388383,Forgetmenot,Wildwood Crest Borough,Cape May,
+,1.0,CC1134,38.9286800659,-74.926717161,Grant,Cape May City,Cape May,
+1.0,,CC1135,38.928728515,-74.931215574,Broadway,Cape May City,Cape May,
+1.0,,CC1136,38.9283628352,-74.933196439,2nd,Cape May City,Cape May,
+,1.0,CC1156,39.0918139944,-74.7161837949,30th St,Avalon Borough,Cape May,
+,1.0,CC1160,39.2778464647,-74.5613139209,Park,Ocean City,Cape May,
+,1.0,CC1166,39.1420697583,-74.6976336306,59th St,Sea Isle City,Cape May,
+,1.0,CC1170,39.0438538484,-74.7609814384,108th St,Stone Harbor Borough,Cape May,
+,1.0,CC1171,39.0364842423,-74.7671852671,119th St,Stone Harbor Borough,Cape May,
+,1.0,CC1175,38.9736316468,-74.8219140659,Lavendar,Wildwood Crest Borough,Cape May,
+,1.0,CC1176,38.9315318813,-74.9064319455,Philadelphia,Cape May City,Cape May,
+,1.0,CC1177,39.1250098417,-74.7069836129,85th St,Sea Isle City,Cape May,
+,1.0,CC1179,39.0469857809,-74.7585603641,103rd St,Stone Harbor Borough,Cape May,
+,1.0,CC1180,38.9886811866,-74.8000556422,24th St,North Wildwood City,Cape May,
+,1.0,CC1181,39.2831767192,-74.5554126119,North,Ocean City,Cape May,
+,1.0,CC1189,39.1017422893,-74.708061848,15th St,Avalon Borough,Cape May,
+,2.0,CC1190,39.0805716579,-74.7289039836,50th St,Avalon Borough,Cape May,
+,1.0,CC1192,39.0642112519,-74.7443818139,76th St,Avalon Borough,Cape May,
+,1.0,CC1193,39.0514077929,-74.7545716237,96th St,Stone Harbor Borough,Cape May,
+,1.0,CC1211,38.9923107998,-74.7964688356,18th Ave,North Wildwood City,Cape May,
+4.0,,CC1215S,38.933493,-74.900364,Pittsburg Ave,Cape May City,Cape May,
+1.0,,CC1362S,38.9918353749,-74.7970853294,19th Ave,North Wildwood City,Cape May,
+1.0,,CC1363S,38.99125,-74.79729,20th Ave,North Wildwood City,Cape May,
+4.0,,CC1369S,39.2746286574,-74.5677329717,8th St,Ocean City,Cape May,
+1.0,,CC1374S,39.28233164,-74.5562678554,Stenton Pl,Ocean City,Cape May,
+2.0,,CC1375S,39.2814473815,-74.5568608894,1st Street,Ocean City,Cape May,
+1.0,,CC1376S,39.2794895608,-74.5590166741,Delancey,Ocean City,Cape May,
+1.0,,CC1749,39.276676,-74.563222,5th St,Ocean City,Cape May,
+8.0,3.0,MC0031,40.1785728309,-74.0337028887,L Street Beach,Belmar Borough,Monmouth,11.0
+1.0,8.0,MC0038,40.1861755161,-74.0397952806,Shark River Beach and Yacht,Neptune Township,Monmouth,9.0
+1.0,6.0,MC0044,40.4449775072,-74.1119319466,Ideal,Middletown Township,Monmouth,7.0
+3.0,2.0,MC0045,40.4234322465,-74.059592391,Thompson,Middletown Township,Monmouth,5.0
+1.0,1.0,MC0049,40.4079505439,-73.9932702655,Highlands Rec Center,Highlands Borough,Monmouth,2.0
+,4.0,MC0050,40.4036136783,-73.9847513365,Miller Beach,Highlands Borough,Monmouth,
+,2.0,MC1013,40.3622814044,-73.9714540943,Public Beach,Sea Bright Borough,Monmouth,
+1.0,2.0,MC1018,40.3200680936,-73.9750786409,Atlantic Ave,Long Branch City,Monmouth,3.0
+1.0,1.0,MC1019,40.3143364604,-73.9761722615,Joline,Long Branch City,Monmouth,2.0
+1.0,5.0,MC1020,40.2913981527,-73.9796819117,South Bath,Long Branch City,Monmouth,6.0
+,3.0,MC1021,40.2609915318,-73.9879961017,Elberon Bch Clb,Long Branch City,Monmouth,
+4.0,4.0,MC1022,40.2522531157,-73.9901180256,Deal Casino,Deal Borough,Monmouth,8.0
+1.0,7.0,MC1023,40.2945292984,-73.9788529377,North Bath,Long Branch City,Monmouth,8.0
+1.0,1.0,MC1024,40.2209176425,-73.9984369303,3rd,Asbury Park City,Monmouth,2.0
+,4.0,MC1027,40.1917268859,-74.0081774117,Sylvania,Avon-by-the-sea Borough,Monmouth,
+,1.0,MC1031,40.1888335237,-74.0088216656,L Jetty Washington Ave,Avon-by-the-sea Borough,Monmouth,
+1.0,3.0,MC1036,40.111342027,-74.0323773678,East Main,Manasquan Borough,Monmouth,4.0
+2.0,4.0,MC1039,40.3040574457,-73.9769902841,Laird,Long Branch City,Monmouth,6.0
+1.0,2.0,MC1041,40.2367133247,-73.9939071598,Cedar,Allenhurst Borough,Monmouth,3.0
+,2.0,MC1043,40.2322903369,-73.9960221817,Village Beach Club,Loch Arbour Village,Monmouth,
+,1.0,MC1046S,40.32458439,-73.97435574,Pavilion Beach,Monmouth Beach Borough,Monmouth,
+1.0,2.0,MC1047,40.2692712907,-73.9848903782,Ocean Beach Club,Long Branch City,Monmouth,3.0
+1.0,,MC1049S,40.317904,-73.97544,Avenel,Long Branch City,Monmouth,
+1.0,3.0,MC1050,40.2179562572,-73.9994817762,1st Ave,Asbury Park City,Monmouth,4.0
+,2.0,MC1051,40.2114438126,-74.0018846213,Main,Neptune Township,Monmouth,
+1.0,2.0,MC1052,40.2089715639,-74.0029218061,Broadway,Neptune Township,Monmouth,3.0
+1.0,4.0,MC1053,40.2039657903,-74.0045925064,Ocean Park,Bradley Beach Borough,Monmouth,5.0
+1.0,,MC1054,40.1960369121,-74.007095572,Evergreen,Bradley Beach Borough,Monmouth,
+1.0,1.0,MC1056,40.1746929138,-74.0133067766,12th Ave,Belmar Borough,Monmouth,2.0
+,5.0,MC1057,40.160665914,-74.0181320765,Worthington,Spring Lake Borough,Monmouth,
+,2.0,MC1058,40.1531230763,-74.0207405113,Washington,Spring Lake Borough,Monmouth,
+,2.0,MC1059,40.1458715494,-74.0229989892,Essex Ave,Spring Lake Borough,Monmouth,
+7.0,5.0,MC1060,40.1386877468,-74.0250879064,Brown Ave S,Spring Lake Borough,Monmouth,12.0
+2.0,1.0,MC1065,40.2266481207,-73.9966637716,7th Ave,Asbury Park City,Monmouth,3.0
+3.0,4.0,MC1067,40.1376253671,-74.0253175824,The Terrace,Sea Girt Borough,Monmouth,7.0
+3.0,5.0,MC1070,40.1399664673,-74.0248346537,York Ave,Spring Lake Borough,Monmouth,8.0
+,2.0,MC1071,40.1409751444,-74.0245880201,Union Ave,Spring Lake Borough,Monmouth,
+3.0,5.0,MC1072,40.1361470507,-74.0258325645,Beacon Blvd,Sea Girt Borough,Monmouth,8.0
+,1.0,MC1074,40.1796178786,-74.0114136737,7th Ave,Belmar Borough,Monmouth,
+,1.0,MC1075,40.1683779799,-74.0156648801,20th,Belmar Borough,Monmouth,
+,3.0,MC1081,40.1319978699,-74.0272616136,Baltimore,Sea Girt Borough,Monmouth,
+,5.0,MC1082,40.1330808595,-74.0268899586,New York Blvd,Sea Girt Borough,Monmouth,
+,3.0,MC1083,40.2154108696,-74.0003227451,Spray Ave.,Neptune Township,Monmouth,
+,3.0,MC1084,40.277480873,-73.9829927536,Imperial House,Long Branch City,Monmouth,
+,1.0,MC1096,40.1036598447,-74.0338439653,Inlet Surfing Beach Riverside Dr.,Manasquan Borough,Monmouth,
+,1.0,MC1128S,40.240359,-73.993354,Hathaway Avenue Beach,Deal Borough,Monmouth,
+,3.0,MC1180S,40.2531891338,-73.9893334896,Philips Ave,Deal Borough,Monmouth,
+,2.0,MC1187S,40.365104,-73.971624,Rumson Rd,Sea Bright Borough,Monmouth,
+,7.0,OC0023,39.9733782989,-74.0722734102,Reese Ave,Lavallette Borough,Ocean,
+6.0,7.0,OC0036,39.9455410455,-74.0798571683,Hancock,Seaside Heights Borough,Ocean,13.0
+2.0,4.0,OC0069,39.6492312454,-74.1856893178,14th St Bay Front,Ship Bottom Borough,Ocean,6.0
+1.0,9.0,OC0073,39.6160172318,-74.2014946481,Stockton,Long Beach Township,Ocean,10.0
+2.0,4.0,OC0077,39.5879811366,-74.2285836916,New Jersey,Long Beach Township,Ocean,6.0
+22.0,19.0,OC0103,40.0563945061,-74.1116547167,Windward Beach,Brick Township,Ocean,41.0
+11.0,6.0,OC0109,40.0887136876,-74.0712972273,Maxon,Point Pleasant Borough,Ocean,17.0
+10.0,5.0,OC0110,40.0887777602,-74.0729955535,River,Point Pleasant Borough,Ocean,15.0
+6.0,,OC0111,39.9478767919,-74.1631691814,Money Island,Toms River Township,Ocean,
+,3.0,OC0112,39.968929444,-74.1125971919,Shelter Cove,Toms River Township,Ocean,
+2.0,10.0,OC0115,39.9424517065,-74.1336010923,Summit,Island Heights Borough,Ocean,12.0
+47.0,24.0,OC0116,39.942859058,-74.1848149609,Beachwood Beach West,Beachwood Borough,Ocean,71.0
+4.0,7.0,OC0117,39.9381493855,-74.1580825379,East Beach Station Ave,Pine Beach Borough,Ocean,11.0
+17.0,14.0,OC0118,39.9409451638,-74.169719357,West Beach Avon Rd,Pine Beach Borough,Ocean,31.0
+3.0,7.0,OC0119,39.9286860079,-74.135134214,Wildwood,Ocean Gate Borough,Ocean,10.0
+,1.0,OC0122,39.8729088193,-74.1314700245,Berkeley Island,Berkeley Township,Ocean,
+,4.0,OC0124,39.754235764,-74.1904650552,Bay Beach,Barnegat Township,Ocean,
+1.0,3.0,OC0125,39.6636551007,-74.2172728377,Jennifer,Stafford Township,Ocean,4.0
+3.0,7.0,OC0132,39.9196173835,-74.0810145791,5th Ave Bay Front,Seaside Park Borough,Ocean,10.0
+1.0,9.0,OC0136,39.6669992967,-74.1684166772,16th St Bay Front,Surf City Borough,Ocean,10.0
+,3.0,OC0138,39.9694158228,-74.0746024225,Brooklyn,Lavallette Borough,Ocean,
+3.0,5.0,OC0140,39.9289308904,-74.1282002267,Anglesea,Ocean Gate Borough,Ocean,8.0
+3.0,12.0,OC0142,39.7453063767,-74.117924658,25th St Bay Front,Barnegat Light Borough,Ocean,15.0
+1.0,,OC1006S,39.6994085348,-74.1357710808,69th,Harvey Cedars Borough,Ocean,
+1.0,,OC1010S,39.649290061,-74.1725222569,7th St,Ship Bottom Borough,Ocean,
+1.0,1.0,OC1019,40.009329903,-74.0562663786,Brick Beach,Brick Township,Ocean,2.0
+,1.0,OC1033,39.9504898869,-74.0681223282,North Beach,Toms River Township,Ocean,
+,2.0,OC1035,39.9440409513,-74.0687774563,Sheridan,Seaside Heights Borough,Ocean,
+1.0,,OC1052,39.7198239187,-74.1255132318,Loveladies Ln,Long Beach Township,Ocean,
+1.0,,OC1054,39.7034466073,-74.1335770736,75th Ocean Front,Harvey Cedars Borough,Ocean,
+1.0,1.0,OC1058,39.6860536335,-74.144639795,Bergen,Harvey Cedars Borough,Ocean,2.0
+,1.0,OC1068,39.6448907967,-74.1762155318,14th St Ocean Front,Ship Bottom Borough,Ocean,
+1.0,2.0,OC1072,39.6151911343,-74.1978774892,Stockton Ave,Long Beach Township,Ocean,3.0
+1.0,,OC1076,39.584542189,-74.2196010186,New Jersey Ave,Long Beach Township,Ocean,
+1.0,1.0,OC1078,39.5668542824,-74.2312423563,Taylor Ocean Front,Beach Haven Borough,Ocean,2.0
+,5.0,OC1080,39.5483920571,-74.2486485517,Leeward St,Beach Haven Borough,Ocean,
+,1.0,OC1082,39.5353218423,-74.2587438882,Joan,Long Beach Township,Ocean,
+1.0,,OC1084S,39.7480011095,-74.1052437531,17th St,Barnegat Light Borough,Ocean,
+1.0,,OC1086S,39.7359132523,-74.1161433743,Dolphin,Long Beach Township,Ocean,
+1.0,,OC1087S,39.7326536153,-74.118252544,Seaview,Long Beach Township,Ocean,
+1.0,,OC1088S,39.7291160324,-74.1202763038,Coast Ave,Long Beach Township,Ocean,
+1.0,,OC1089,39.9883894162,-74.0613185468,East Tuna Way,Toms River Township,Ocean,
+1.0,,OC1092S,39.7066273691,-74.131750702,80th St,Harvey Cedars Borough,Ocean,
+,2.0,OC1095,39.9382037599,-74.0704307967,Lincoln Ave,Seaside Heights Borough,Ocean,
+,1.0,OC1099,39.6600287994,-74.1635582068,North 10th St,Surf City Borough,Ocean,
+1.0,1.0,OC1100,39.6515320211,-74.1706224745,South 3rd St,Ship Bottom Borough,Ocean,2.0
+1.0,,OC1102,39.5705123035,-74.2290593411,14th St. in Beach Haven,Long Beach Township,Ocean,
+1.0,,OC1107S,39.6468758993,-74.1745912617,11th St,Ship Bottom Borough,Ocean,
+1.0,,OC1112S,39.6184428345,-74.1955610966,Paulding,Long Beach Township,Ocean,
+1.0,,OC1113S,39.6143522378,-74.1983233712,Dayton,Long Beach Township,Ocean,
+1.0,,OC1114S,39.6100187176,-74.2011517501,Jeanette Ave,Long Beach Township,Ocean,
+1.0,,OC1115S,39.6038369953,-74.2052129736,Oceanview Dr,Long Beach Township,Ocean,
+1.0,,OC1118S,39.5864219309,-74.2184363596,Dune,Long Beach Township,Ocean,
+1.0,,OC1119S,39.5820414397,-74.2213150133,33rd St,Long Beach Township,Ocean,
+1.0,,OC1120S,39.57727331,-74.2244400574,25th St,Long Beach Township,Ocean,
+1.0,,OC1122S,39.5643778229,-74.2330183231,5th St,Beach Haven Borough,Ocean,
+1.0,,OC1125S,39.5508551484,-74.2453264768,Pelham,Beach Haven Borough,Ocean,
+1.0,,OC1127S,39.5463525211,-74.2504431474,Osborn Ave,Long Beach Township,Ocean,
+,1.0,OC1130,39.9562775543,-74.06745785,4th Ave,Toms River Township,Ocean,
+1.0,,OC1131S,39.5370508703,-74.2579030546,Elizabeth Ct,Long Beach Township,Ocean,
+1.0,,OC1132S,39.5330149004,-74.259610354,Harding Ave,Long Beach Township,Ocean,
+,1.0,OC1135,40.0765925776,-74.0402649233,Maryland,Point Pleasant Beach Borough,Ocean,
+1.0,,OC1137S,39.6974188635,-74.1370022281,Middlesex Ave,Harvey Cedars Borough,Ocean,
+1.0,,OC1225S,39.7046473563,-74.1326078327,77th St,Harvey Cedars Borough,Ocean,
+1.0,,OC1250S,39.644458588,-74.176441472,South 14th St III,Ship Bottom Borough,Ocean,
+1.0,,OC1298S,39.7543088942,-74.0997598392,9th St,Barnegat Light Borough,Ocean,
+1.0,,OC1306S,39.7448668191,-74.1094144172,22nd St,Barnegat Light Borough,Ocean,
+1.0,,OC1307S,39.7455596113,-74.1087114188,21st St,Barnegat Light Borough,Ocean,
+1.0,,OC1308S,39.7430794034,-74.1110122083,25th St Ocean Front,Barnegat Light Borough,Ocean,
+1.0,,OC1310S,39.7416839268,-74.1122048809,27th St,Barnegat Light Borough,Ocean,
+1.0,,OC1314S,39.5490812972,-74.2473315973,North Leeward St III,Beach Haven Borough,Ocean,
+1.0,,OC1402S,39.5841016916,-74.2198252613,South New Jersey Ave II,Long Beach Township,Ocean,
+1.0,,OC1447,39.7107682619,-74.1298565991,86th St,Harvey Cedars Borough,Ocean,
+1.0,,OC1448,39.7086948364,-74.1307630967,83rd St,Harvey Cedars Borough,Ocean,
+1.0,,OC1449,39.7019436829,-74.1341286569,73rd St,Harvey Cedars Borough,Ocean,
+1.0,,OC1451,39.6922843829,-74.1404181224,Hudson Ave,Harvey Cedars Borough,Ocean,
+1.0,,OC1452,39.6894844904,-74.1420442609,Cape May Ave,Harvey Cedars Borough,Ocean,
+1.0,,OC1501,39.5907916581,-74.2152261728,Colorado,Long Beach Township,Ocean,
+1.0,,OC1503,39.5448210957,-74.2519737989,Susan,Long Beach Township,Ocean,
+1.0,,OC1504,39.5421160171,-74.2541420619,Rosemma,Long Beach Township,Ocean,
+1.0,,OC1505,39.5388943218,-74.2565349694,Scott,Long Beach Township,Ocean,
+1.0,,OC1506,39.5356717435,-74.258646492,Jacqueline,Long Beach Township,Ocean,
+1.0,,OC1507,39.5322929088,-74.260169347,Washington,Long Beach Township,Ocean,
+1.0,,OC1508,39.6523143592,-74.1698473028,S 2nd,Surf City Borough,Ocean,
+1.0,,OC1509,39.6541046413,-74.1682880248,N 1st,Surf City Borough,Ocean,
+1.0,,OC1510,39.6566291866,-74.1662337379,5th St,Surf City Borough,Ocean,
+1.0,,OC1511,39.6591124811,-74.164228952,9th St,Surf City Borough,Ocean,
+1.0,,OC1512,39.6616782771,-74.1622489165,13th St,Surf City Borough,Ocean,
+1.0,,OC1513,39.6641038206,-74.160103878,17th St,Surf City Borough,Ocean,
+1.0,,OC1514,39.6666613665,-74.1582310944,21st St,Surf City Borough,Ocean,
+1.0,,OC1515,39.6686249017,-74.1571420749,24th St,Surf City Borough,Ocean,
+2.0,,OC1516,39.6411442072,-74.1788782569,20th St,Ship Bottom Borough,Ocean,
+1.0,,OC1517,39.6393656437,-74.1802242235,23rd St,Ship Bottom Borough,Ocean,
+1.0,,OC1518,39.6373847082,-74.1818157433,26th St,Ship Bottom Borough,Ocean,
+1.0,,OC1519,39.6353961629,-74.1832300886,30th St,Ship Bottom Borough,Ocean,
+1.0,,OC1520,39.569252841,-74.2297184431,12th St,Beach Haven Borough,Ocean,
+1.0,,OC1521,39.5623723931,-74.2345016422,2nd St,Beach Haven Borough,Ocean,
+1.0,,OC1522,39.5608515811,-74.2355931927,Engleside,Beach Haven Borough,Ocean,
+1.0,,OC1523,39.5588033908,-74.2372366509,Pearl,Beach Haven Borough,Ocean,
+1.0,,OC1524,39.5558108252,-74.2397876904,Belvoir,Beach Haven Borough,Ocean,
+1.0,,OC1525,39.5541305732,-74.2415537946,Essex,Beach Haven Borough,Ocean,
+1.0,,OC1526,39.6115235069,-74.2002980639,Lavenia Ave,Long Beach Township,Ocean,
+1.0,,OC1527,39.6080400242,-74.2026383604,Rhode Island Ave,Long Beach Township,Ocean,
+1.0,,OC1528,39.6013426782,-74.2070061947,Herbert Ave,Long Beach Township,Ocean,
+1.0,,OC1529,39.5993367098,-74.2085484177,California Ave,Long Beach Township,Ocean,
+1.0,,OC1530,39.5972983871,-74.2101661342,Kansas Ave,Long Beach Township,Ocean,
+1.0,,OC1531,39.5926717181,-74.2138653124,Tennessee Ave,Long Beach Township,Ocean,
+1.0,,OC1532,39.6344574695,-74.1838591095,32nd St,Long Beach Township,Ocean,
+1.0,,OC1533,39.6325301061,-74.1853724467,36th St,Long Beach Township,Ocean,
+1.0,,OC1534,39.630645573,-74.1867858466,40th St,Long Beach Township,Ocean,
+1.0,,OC1535,39.6287610399,-74.1882277999,44th St,Long Beach Township,Ocean,
+1.0,,OC1536,39.6269478906,-74.1896983068,48th St,Long Beach Township,Ocean,
+1.0,,OC1537,39.6249919737,-74.1912830279,52nd St,Long Beach Township,Ocean,
+1.0,,OC1538,39.6234643597,-74.1923252318,55th St,Long Beach Township,Ocean,
+1.0,,OC1539,39.6216654872,-74.1934959266,58th St,Long Beach Township,Ocean,
+1.0,,OC1541,39.6192669905,-74.195180585,Sigsbee Ave,Long Beach Township,Ocean,
+1.0,,OC1542,39.6155649958,-74.1975588048,68th St,Long Beach Township,Ocean,
+1.0,,OC1543,39.5797340015,-74.2227973965,29th St,Long Beach Township,Ocean,
+1.0,,OC1544,39.5746705085,-74.2260334635,21st St,Long Beach Township,Ocean,
+1.0,,OC1545,39.5723100832,-74.2275753542,17th St,Long Beach Township,Ocean,
+1.0,,OC1546,39.7491135981,-74.1037909264,15th St,Barnegat Light Borough,Ocean,
+1.0,,OC1547,39.7470862973,-74.1068604311,19th St,Barnegat Light Borough,Ocean,
+1.0,,OC1548,39.7391210303,-74.1140607126,30th St,Barnegat Light Borough,Ocean,
+1.0,,OC1549,39.6694146932,-74.1568265209,1005 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1550,39.6720725138,-74.1551034423,1023 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1551,39.675444094,-74.1525804493,1049 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1552,39.6771784317,-74.1513046654,1065 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1553,39.6797542237,-74.1493043221,1087 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1554,39.6834376293,-74.146563183,1119 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1555,39.7249482722,-74.1226641084,85 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1556,39.7271113519,-74.1214935209,199 LB Blvd,Long Beach Township,Ocean,
+1.0,,OC1557,39.6060748138,-74.2037617215,86th St,Long Beach Township,Ocean,
+1.0,,OC1558,39.5884894829,-74.2168367076,Ramapo Ave,Long Beach Township,Ocean,
+1.0,,OC1559,39.5616106539,-74.2351606995,Center St,Beach Haven Borough,Ocean,
+1.0,,OC1560,39.5949111166,-74.2121306545,110th St,Long Beach Township,Ocean,
